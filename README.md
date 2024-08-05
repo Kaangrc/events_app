@@ -2,17 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+## Contents
 
-This project is a starting point for a Flutter application.
+Django ile bağlı bu flutter projesi kullanıcı kayıtlarını post ile djangoya iletmeyi amaclar ve bu sayede geçmiş tarhili , kapasitesi dolmuş bir etkinliğe kayıt olunmasını engeller 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# event_app
-# events_app
+<img width="348" alt="Ekran Resmi 2024-08-05 09 58 36" src="https://github.com/user-attachments/assets/e502568e-841a-4321-92bc-013024cfdbee">
+<img width="330" alt="Ekran Resmi 2024-08-05 09 59 02" src="https://github.com/user-attachments/assets/a1bd7dc5-1d78-4f4a-bbb0-3d92435a1d3c">
